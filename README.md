@@ -1,2 +1,3 @@
-# hyperblog
-Blog y prueba para git y git hub de Platzi
+# Hyperblog
+Un blog increible para el curso de Git y Github de platzi
+>EDITAR EL README CON: https://pandao.github.io/editor.md/en.html
